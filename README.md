@@ -1,4 +1,4 @@
-# Frontend : Easybank landing page 
+# Frontend: Easybank landing page 
 
 Non-responsive Easybank Landing page.
 
@@ -8,7 +8,7 @@ Non-responsive Easybank Landing page.
 
 ## Links
 
-- Live Site URL: [Live site URL ]()
+- Live Site URL: [Live site URL ](https://kanakjyoti.github.io/Easybank-landing-page/)
 
 ## Built with
 
@@ -18,4 +18,4 @@ Non-responsive Easybank Landing page.
 
 ## Continued development
 
-Will make responsive website and add javascript code for nav bar.
+Will make the responsive website and add javascript code.
