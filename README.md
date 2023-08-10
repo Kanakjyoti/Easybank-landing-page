@@ -15,3 +15,7 @@ Non-responsive Easybank Landing page.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Continued development
+
+Will make responsive website and add javascript code for nav bar.
